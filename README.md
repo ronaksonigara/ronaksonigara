@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ronak Sonigara</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-🔭 I’m currently working at Jio Platforms Ltd<br>🌱 I’m currently learning Backend Technologies<br>💬 Ask me about React.Js, Next.Js, Angular, Redux, Javascript, Typescript<br>📄 Know about my experiences https://drive.google.com/file/d/1BZwXVTuV78INwiM0UfQekFxo77r7_cY7/view<br>
+🔭 I’m currently working at Jio Platforms Ltd<br>🌱 I’m currently learning Backend Technologies<br>💬 Ask me about React.Js, Next.Js, Angular, Redux, Javascript, Typescript, Node.Js<br>
 
 
 ## 🌐 Socials:
